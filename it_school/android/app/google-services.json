@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "710023073781",
+    "project_id": "it-school-fba9b",
+    "storage_bucket": "it-school-fba9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710023073781:android:280ff82270609d15849abc",
+        "android_client_info": {
+          "package_name": "com.example.it_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710023073781-pvl31dkm4p1a55v9e4fdtict05c5t6hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93VNZiQ8_YZ_o51BgyQw0vw2jY60kZMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710023073781-pvl31dkm4p1a55v9e4fdtict05c5t6hb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710023073781-tvitrc7rlmdi9lfish83coono1mdm2hf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.itSchool"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
